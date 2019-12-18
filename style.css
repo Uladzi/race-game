@@ -1,0 +1,15 @@
+div {
+    text-align: end;
+}
+
+.finish-line {
+    height: 28rem;
+}
+
+.auto-models {
+    height: 28rem;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
