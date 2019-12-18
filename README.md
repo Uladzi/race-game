@@ -1,5 +1,5 @@
 # race-game
 "Race" game
 
-###deployed:
+### deployed:
 https://uladzi.github.io/race-game/
